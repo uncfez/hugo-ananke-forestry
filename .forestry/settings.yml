@@ -27,7 +27,7 @@ upload_dir: ''
 public_path: https://res.cloudinary.com/turfvb
 front_matter_path: ''
 use_front_matter_path: true
-file_template: 'https://res.cloudinary.com/turfvb/*/:filename:'
+file_template: 'https://res.cloudinary.com/turfvb/image/upload/*/:filename:'
 build:
   preview_env:
   - HUGO_ENV=staging
