@@ -2,7 +2,6 @@
 date = 2022-02-20T23:00:00Z
 description = "Description"
 disable_share = false
-draft = true
 featured_image = "/images/notebook.jpg"
 tags = ["scene"]
 title = "Winter Classic 2022"
