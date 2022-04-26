@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05.000-04:00
 description: Esmeralda
-featured_image: "/images/esmeralda.jpg"
+featured_image: "https://res.cloudinary.com/turfvb/image/upload/v1649799255/tvb/2022/02/273075463_1328846557579624_4008131250964012459_n_kgacyq.jpg"
 tags: [tag]
 title: 'Chapter VI: Esmeralda'
 disable_share: false
