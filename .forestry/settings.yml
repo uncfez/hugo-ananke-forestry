@@ -15,7 +15,7 @@ sections:
   create: documents
   match: "*.md"
   exclude: _index.md
-  new_doc_ext: md
+  new_doc_ext: ''
   templates:
   - post
 - type: directory
