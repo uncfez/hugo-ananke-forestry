@@ -2,7 +2,7 @@
 date = 2022-02-20T23:00:00Z
 description = "Description"
 disable_share = false
-featured_image = "https://res.cloudinary.com/turfvb/image/upload/v1649799255/tvb/2022/02/273075463_1328846557579624_4008131250964012459_n_kgacyq.jpg"
+featured_image = "/v1649799255/tvb/2022/02/27459207_863984637095414_2836707591140403082_n_itmeyj.jpg"
 tags = []
 title = "Winter Classic 2022"
 
